@@ -13,4 +13,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: www.linkedin.com/in/zaryabmuhammad
+www.linkedin.com/in/zaryabmuhammad
