@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Zaryab!</h1>
 
-<!--
-**zaryabk5888/zaryabk5888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📄 Certifications:</h2>
+
+- [Google Cybersecurity certificate](https://www.credly.com/badges/f8b60f13-6bf9-4537-aa92-00293570b535/linked_in_profile)
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: www.linkedin.com/in/zaryabmuhammad
