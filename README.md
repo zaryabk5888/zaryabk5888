@@ -7,6 +7,9 @@
 
 - <b>Active Directory with Wazuh</b>
   - [Setting up active Directory with Wazuh(SIEM) and twingate on Google Cloud](https://github.com/zaryabk5888/google-cloud-ad-wazuh-twinge/tree/main)
+
+- <b>Fake Pharmaceutical Product Identification System using Hyperledger Fabric</b>
+  - [Supply chain that tracks entire life of pharmaceutical products by leveraging blockchains tracebility and transparency](https://github.com/zaryabk5888/MedSentinel)
  
 
 <h2>📄 Certifications:</h2>
