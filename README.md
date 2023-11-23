@@ -5,6 +5,10 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion using azure sentinel](https://github.com/zaryabk5888/HoneyPot.git)
 
+- <b>Active Directory with Wazuh</b>
+  - [Setting up active Directory with Wazuh(SIEM) and twingate on Google Cloud]()
+ 
+
 <h2>📄 Certifications:</h2>
 
 - [Google Cybersecurity certificate](https://www.credly.com/badges/f8b60f13-6bf9-4537-aa92-00293570b535/linked_in_profile)
