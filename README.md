@@ -6,7 +6,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion using azure sentinel](https://github.com/zaryabk5888/HoneyPot.git)
 
 - <b>Active Directory with Wazuh</b>
-  - [Setting up active Directory with Wazuh(SIEM) and twingate on Google Cloud]()
+  - [Setting up active Directory with Wazuh(SIEM) and twingate on Google Cloud](https://github.com/zaryabk5888/google-cloud-ad-wazuh-twinge/tree/main)
  
 
 <h2>📄 Certifications:</h2>
