@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Honey Pot</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion using azure sentinel](https://github.com/zaryabk5888/HoneyPot.git)
 
 - <b>Active Directory with Wazuh</b>
